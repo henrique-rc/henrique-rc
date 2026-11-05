@@ -27,9 +27,9 @@
 
 ---
 
-### 🌑 Pokemon Party
-
 <div align="center">
+
+### 🌑 Pokemon Party 🌑
 
 <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif" height="88" alt="Mimikyu" />
 &nbsp;&nbsp;
