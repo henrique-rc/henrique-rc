@@ -31,7 +31,32 @@
 
 <div align="center">
 
-| <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif" height="64" alt="Mimikyu" /><br/>Mimikyu | <img src="https://play.pokemonshowdown.com/sprites/ani/marshadow.gif" height="64" alt="Marshadow" /><br/>Marshadow | <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="64" alt="Gengar" /><br/>Gengar | <img src="https://play.pokemonshowdown.com/sprites/ani/ceruledge.gif" height="64" alt="Ceruledge" /><br/>Ceruledge | <img src="https://play.pokemonshowdown.com/sprites/ani/zoroark-hisui.gif" height="64" alt="Hisuian Zoroark" /><br/>Hisuian Zoroark | <img src="https://play.pokemonshowdown.com/sprites/ani/dragapult.gif" height="64" alt="Dragapult" /><br/>Dragapult |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+<img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif" height="88" alt="Mimikyu" />
+&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/marshadow.gif" height="88" alt="Marshadow" />
+&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="88" alt="Gengar" />
+&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/ceruledge.gif" height="88" alt="Ceruledge" />
+&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/zoroark-hisui.gif" height="88" alt="Hisuian Zoroark" />
+&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/dragapult.gif" height="88" alt="Dragapult" />
+
+<br/><br/>
+
+<sub>
+<code>Mimikyu</code>
+&nbsp;·&nbsp;
+<code>Marshadow</code>
+&nbsp;·&nbsp;
+<code>Gengar</code>
+&nbsp;·&nbsp;
+<code>Ceruledge</code>
+&nbsp;·&nbsp;
+<code>Hisuian Zoroark</code>
+&nbsp;·&nbsp;
+<code>Dragapult</code>
+</sub>
 
 </div>
