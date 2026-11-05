@@ -40,34 +40,32 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="bottom" width="140">
+    <td align="center" valign="bottom">
       <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif" height="88" alt="Mimikyu" />
       <br/>
       <sub><code>Mimikyu</code></sub>
     </td>
-    <td align="center" valign="bottom" width="140">
+    <td align="center" valign="bottom">
       <img src="https://play.pokemonshowdown.com/sprites/ani/marshadow.gif" height="88" alt="Marshadow" />
       <br/>
       <sub><code>Marshadow</code></sub>
     </td>
-    <td align="center" valign="bottom" width="140">
+    <td align="center" valign="bottom">
       <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="88" alt="Gengar" />
       <br/>
       <sub><code>Gengar</code></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="bottom" width="140">
+    <td align="center" valign="bottom">
       <img src="https://play.pokemonshowdown.com/sprites/ani/ceruledge.gif" height="88" alt="Ceruledge" />
       <br/>
       <sub><code>Ceruledge</code></sub>
     </td>
-    <td align="center" valign="bottom" width="140">
+    <td align="center" valign="bottom">
       <img src="https://play.pokemonshowdown.com/sprites/ani/zoroark-hisui.gif" height="88" alt="Hisuian Zoroark" />
       <br/>
       <sub><code>Hisuian Zoroark</code></sub>
     </td>
-    <td align="center" valign="bottom" width="140">
+    <td align="center" valign="bottom">
       <img src="https://play.pokemonshowdown.com/sprites/ani/dragapult.gif" height="88" alt="Dragapult" />
       <br/>
       <sub><code>Dragapult</code></sub>
