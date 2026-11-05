@@ -10,17 +10,17 @@
 
 ### `Ghost Trainer`
 
-<img src="https://img.shields.io/badge/Ghost-Trainer-705898?style=for-the-badge&labelColor=1a1025&logo=ghost&logoColor=c9b3ff" alt="Ghost Trainer" />
-<img src="https://img.shields.io/badge/Aurion-estagi%C3%A1rio-7B68EE?style=for-the-badge&labelColor=1a1025" alt="Aurion" />
+<img src="https://img.shields.io/badge/Tipo-Fantasma-705898?style=for-the-badge&labelColor=0d0614&logo=ghost&logoColor=c9b3ff" alt="Tipo Fantasma" />
+<img src="https://img.shields.io/badge/Aurion-estagi%C3%A1rio-1a1025?style=for-the-badge&labelColor=0d0614&color=705898" alt="Aurion" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/TypeScript-1a1025?style=for-the-badge&logo=typescript&logoColor=c9b3ff&labelColor=0d0614" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-1a1025?style=for-the-badge&logo=react&logoColor=c9b3ff&labelColor=0d0614" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-1a1025?style=for-the-badge&logo=nextdotjs&logoColor=c9b3ff&labelColor=0d0614" alt="Next.js" />
+<img src="https://img.shields.io/badge/Postgres-1a1025?style=for-the-badge&logo=postgresql&logoColor=c9b3ff&labelColor=0d0614" alt="Postgres" />
+<img src="https://img.shields.io/badge/Supabase-1a1025?style=for-the-badge&logo=supabase&logoColor=c9b3ff&labelColor=0d0614" alt="Supabase" />
+<img src="https://img.shields.io/badge/Git-1a1025?style=for-the-badge&logo=git&logoColor=c9b3ff&labelColor=0d0614" alt="Git" />
 
 
 </div>
