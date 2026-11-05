@@ -38,20 +38,32 @@
 
 ### 🌑 `Pokemon Party` 🌑
 
-<img src="./assets/spacer.png" width="28" height="88" alt=""
-/><img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif" height="88" alt="Mimikyu"
-/><img src="./assets/spacer.png" width="59" height="88" alt=""
-/><img src="https://play.pokemonshowdown.com/sprites/ani/marshadow.gif" height="88" alt="Marshadow"
-/><img src="./assets/spacer.png" width="49" height="88" alt=""
-/><img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="88" alt="Gengar"
-/><img src="./assets/spacer.png" width="56" height="88" alt=""
-/><img src="https://play.pokemonshowdown.com/sprites/ani/ceruledge.gif" height="88" alt="Ceruledge"
-/><img src="./assets/spacer.png" width="64" height="88" alt=""
-/><img src="https://play.pokemonshowdown.com/sprites/ani/zoroark-hisui.gif" height="88" alt="Hisuian Zoroark"
-/><img src="./assets/spacer.png" width="45" height="88" alt=""
-/><img src="https://play.pokemonshowdown.com/sprites/ani/dragapult.gif" height="88" alt="Dragapult"
-/><img src="./assets/spacer.png" width="20" height="88" alt="" />
-<br/>
-<img src="./assets/party-names.svg" width="780" height="26" alt="Mimikyu, Marshadow, Gengar, Ceruledge, Hisuian Zoroark, Dragapult" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif" height="88" alt="Mimikyu" />
+&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/marshadow.gif" height="88" alt="Marshadow" />
+&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="88" alt="Gengar" />
+&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/ceruledge.gif" height="88" alt="Ceruledge" />
+&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/zoroark-hisui.gif" height="88" alt="Hisuian Zoroark" />
+&nbsp;&nbsp;
+<img src="https://play.pokemonshowdown.com/sprites/ani/dragapult.gif" height="88" alt="Dragapult" />
+
+<br/><br/>
+
+<sub>
+<code>Mimikyu</code>
+&nbsp;·&nbsp;
+<code>Marshadow</code>
+&nbsp;·&nbsp;
+<code>Gengar</code>
+&nbsp;·&nbsp;
+<code>Ceruledge</code>
+&nbsp;·&nbsp;
+<code>Hisuian Zoroark</code>
+&nbsp;·&nbsp;
+<code>Dragapult</code>
+</sub>
 
 </div>
