@@ -8,7 +8,7 @@
 
 # Henrique Ribeiro
 
-### `Ghost Trainer`
+### 🌑 `Ghost Trainer` 🌑
 
 <img src="https://img.shields.io/badge/Tipo-Fantasma-705898?style=for-the-badge&labelColor=0d0614&logo=ghost&logoColor=c9b3ff" alt="Tipo Fantasma" />
 <img src="https://img.shields.io/badge/Aurion-estagi%C3%A1rio-1a1025?style=for-the-badge&labelColor=0d0614&color=705898" alt="Aurion" />
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### 🌑 Pokemon Party 🌑
+### 🌑 `Pokemon Party` 🌑
 
 <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif" height="88" alt="Mimikyu" />
 &nbsp;&nbsp;
