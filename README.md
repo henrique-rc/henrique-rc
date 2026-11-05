@@ -31,21 +31,7 @@
 
 <div align="center">
 
-| <img src="https://play.pokemonshowdown.com/sprites/ani/gastly.gif" height="64" alt="Gastly" /><br/>Gastly | <img src="https://play.pokemonshowdown.com/sprites/ani/haunter.gif" height="64" alt="Haunter" /><br/>Haunter | <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="64" alt="Gengar" /><br/>Gengar | <img src="https://play.pokemonshowdown.com/sprites/ani/mismagius.gif" height="64" alt="Mismagius" /><br/>Mismagius | <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif" height="64" alt="Mimikyu" /><br/>Mimikyu | <img src="https://play.pokemonshowdown.com/sprites/ani/dragapult.gif" height="64" alt="Dragapult" /><br/>Dragapult |
+| <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif" height="64" alt="Mimikyu" /><br/>Mimikyu | <img src="https://play.pokemonshowdown.com/sprites/ani/marshadow.gif" height="64" alt="Marshadow" /><br/>Marshadow | <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" height="64" alt="Gengar" /><br/>Gengar | <img src="https://play.pokemonshowdown.com/sprites/ani/ceruledge.gif" height="64" alt="Ceruledge" /><br/>Ceruledge | <img src="https://play.pokemonshowdown.com/sprites/ani/zoroark-hisui.gif" height="64" alt="Hisuian Zoroark" /><br/>Hisuian Zoroark | <img src="https://play.pokemonshowdown.com/sprites/ani/dragapult.gif" height="64" alt="Dragapult" /><br/>Dragapult |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="72" alt="Gengar" />
-
-**“O código também tem sombras — alguém tem que caçá-las.”**
-
-<br/>
-
-⭐ Obrigado por visitar o perfil · *press Start to continue*
 
 </div>
