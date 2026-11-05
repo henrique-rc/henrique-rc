@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="120" alt="Gengar" />
-&nbsp;
-<img src="https://play.pokemonshowdown.com/sprites/ani/haunter.gif" width="100" alt="Haunter" />
-&nbsp;
-<img src="https://play.pokemonshowdown.com/sprites/ani/gastly.gif" width="90" alt="Gastly" />
+<img src="https://raw.githubusercontent.com/henrique-rc/henrique-rc/main/assets/banner.png" alt="Henrique Ribeiro — Ghost Trainer" width="100%" />
 
-# Henrique Ribeiro
+<br/>
+
+*Caçando bugs nas sombras — e saindo com o PR fechado.*
 
 ### `Ghost Trainer`
 
